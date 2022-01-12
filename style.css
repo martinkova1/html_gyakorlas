@@ -1,0 +1,14 @@
+.link {
+    font-size: 30px;
+    font-family: 'Sen', sans-serif;
+}
+.link a{
+    text-decoration: none;
+}
+.green a{
+    color: green;
+   
+}
+.lime a{
+    color:lime;
+}
